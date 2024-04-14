@@ -8,7 +8,7 @@ permalink: /study/
 
 - ## *[Math](/todo)*
 - ## *[English](/todo)*
-- ## *[OS](/_posts/2024-04-14-os.md)*
+- ## *[OS](/study/os)*
 - ## *[DSA](/todo)*
 - ## *[CN](/todo)*
 - ## *[CO](/todo)*

@@ -38,6 +38,8 @@ header_pages:
   - about.md
   - study.md
 
+show_excerpts: true
+show_drafts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
